@@ -129,7 +129,9 @@ dmypy.json
 .pyre/
 
 Config.py
-
+VacationPy.ipynb
+WeatherPy.ipynb
+random_numbers.ipynb
 API_practice.ipynb
 random_numbers.ipynb
 __pyache__/
