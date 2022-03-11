@@ -129,6 +129,10 @@ dmypy.json
 .pyre/
 
 Config.py
+key.py
+random_numbers.ipynb
+Practice/.DS_Store
+.DS_Store
 
 API_practice.ipynb
 random_numbers.ipynb
