@@ -129,11 +129,17 @@ dmypy.json
 .pyre/
 
 Config.py
+<<<<<<< HEAD
 key.py
 random_numbers.ipynb
 Practice/.DS_Store
 .DS_Store
 
+=======
+VacationPy.ipynb
+WeatherPy.ipynb
+random_numbers.ipynb
+>>>>>>> 85a9388b44c30f2270a60ec3ab1a78b64e986eed
 API_practice.ipynb
 random_numbers.ipynb
 __pyache__/
