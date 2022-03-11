@@ -1,1 +1,2 @@
-# World_Weather_Analysis
+# Purpose
+The purpose of this code is to provide users the ability to plan their vacation. The ["Weather Database"](https://github.com/evanbruno617/World_Weather_Analysis/tree/main/Weather_Database) analyzes the weather of random cities. In ["Vacation Search"](https://github.com/evanbruno617/World_Weather_Analysis/tree/main/Vacation_Search) it analyzes which cities are preferred by the user based on their temperature preferences. Finally in ["Vacation Itnerary"](https://github.com/evanbruno617/World_Weather_Analysis/tree/main/Vacation_Itinerary) it plans the trip iteneray by asking the user which cities they would like to visit on their trip. 
